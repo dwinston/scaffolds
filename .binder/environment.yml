@@ -1,5 +1,8 @@
+channels:
+  - conda-forge
 dependencies:  
   - matplotlib
   - numpy
   - pandas
   - plotnine
+  - xeus-sqlite=0.1.0
